@@ -50,7 +50,7 @@ plt.show()
 ```
 
 ## Output:
-[Placement_Data (1).csv](https://github.com/user-attachments/files/27152283/Placement_Data.1.csv)
+<img width="821" height="624" alt="Screenshot 2026-04-28 111752" src="https://github.com/user-attachments/assets/4d3df115-6788-4211-bf5d-c3794fe0d37f" />
 
 
 ## Result:
